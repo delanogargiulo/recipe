@@ -1,0 +1,409 @@
+html {
+	background: rgba(122, 191, 191, .5);
+}
+
+body {
+	width: 1280px;
+	background: #F2F2F2;
+	margin: 0 auto;
+	overflow-x: hidden;
+}
+
+.logo {
+	transform: translate(16px,-89px);
+}
+
+.orange-rect {
+	transform: translateY(0px);
+}
+
+.avatar {
+	transform: translate(1200px, -154px);
+}
+
+.sign-in {
+	font-family: bebas neue;
+	font-size: 20px;
+	transform: translate(-1px,-23px);
+}
+
+.search-bar {
+	transform: translate(353px, 50px);
+}
+
+.find-a-recipe {
+	font-size: 16px;
+	color: gray;
+	transform: translate(10px, -54px);
+}
+
+.search {
+	transform: translate(652px, -85.5px);
+	padding-top: 30px;
+	color: #EB5428;
+}
+
+header {
+	transform: translateY(-5px);
+}
+
+.top-nav {
+	background: #FFFFFF;
+	text-align: center;
+	font-family: bebas neue;
+	font-weight: regular;
+	padding: 1px;
+	box-shadow: 0px 4px 2px -2px rgba(0,0,0,.2);
+	margin-top: -286px;
+}
+
+nav a {
+	color: #EB5428;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 15px;
+	font-family: bebas neue;
+	font-weight: regular;
+}
+
+menu li {
+	transform: translateX(-70px);
+}
+
+#breakfast-pic {
+	transform: translateX(40px);
+}
+
+#breakfast {
+	transform: translateX(-37px);
+}
+
+#brunch-pic {
+	transform: translateX(20px);
+}
+
+#brunch {
+	transform: translateX(-47px);
+}
+
+#lunch-pic {
+	transform: translateX(24px);
+}
+
+#lunch {
+	transform: translateX(-38px);
+}
+
+#dinner-pic {
+	transform: translateX(35px);
+}
+
+#dinner {
+	transform: translateX(-29px);
+}
+
+#appetizers-pic {
+	transform: translateX(45px);
+}
+
+#appetizers {
+	transform: translateX(-33px);
+}
+
+#desserts-pic {
+	transform: translateX(25px);
+}
+
+#desserts {
+	transform: translateX(-47px);
+}
+
+#beverages {
+	transform: translateX(-77px);
+}
+
+h1 {
+	font-size: 40px;
+	color: #0D0D0D;
+	text-align: center;
+	font-family: bebas neue;
+	font-weight: regular;
+	transform: translate(-55px ,-90px);
+}
+
+.street-tacos {
+	float: right;
+}
+
+.street-tacos p {
+	transform: translateY(-600px);
+	line-height: 2;
+}
+
+p {
+	font-family: montserrat;
+	font-weight: regular;
+	font-size: 16px;
+}
+
+.left-nav {
+	background: #FFFFFF;
+	text-align: center;
+	font-family: bebas neue;
+	font-weight: regular;
+}
+
+.save {
+	transform: translateX(-5px);
+}
+
+.share {
+	transform: translateX(-9px);
+}
+
+.print {
+	transform: translateX(-7px);
+}
+
+.jump {
+	transform: translateX(-7px);
+}
+
+nav span {
+	font-family: bebas neue;
+	font-size: 20px;
+	float: left;
+	background: #FFFFFF;
+	width: 50px;
+	height: 572px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	list-style: none;
+	text-align: center;
+	margin-top: 100px;
+	padding-left: 30px;
+	padding-right: 30px;
+	transform: translateY(83px);
+	border-style: solid;
+	border-color: #EB5428;
+}
+
+nav svg {
+	padding-top: 20px;
+}
+
+#myStreetTacos {
+	float: left;
+	width: 550px;
+	height: 675px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 113px;
+	padding-bottom: 50px;
+	transform: translateY(-602px);
+}
+
+.details {
+	text-align: center;
+	color: #7ABFBF;
+	background: #000000;
+	transform: translateY(567px);
+	font-family: bebas neue;
+}
+
+.details ul {
+	list-style-type: none;
+}
+
+.details li {
+	display: inline-block;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-left: 50px;
+	padding-right: 80px;
+	font-family: montserrat;
+	transform: translateX(-40px);
+}
+
+.details h2 {
+	padding-top: 10px;
+	font-size: 30px;
+	transform: translateX(-55px);
+}
+
+.ingredients {
+	float: left;
+	transform: translateY(-545px);
+}
+
+.ingredients h2 {
+	font-family: bebas neue;
+	font-size: 30px;
+}
+
+.ingredients li {
+	font-family: montserrat;
+	line-height: 2;
+	list-style-type: square;
+}
+
+.directions {
+	float: right;
+	transform: translateY(-545px);
+	padding-right: 35px;
+}
+
+.directions h2 {
+	font-family: bebas neue;
+	font-size: 30px;
+}
+
+.directions li {
+	font-family: montserrat;
+	line-height: 2;
+}
+
+h2 {
+	text-align: center;
+}
+
+.need-some-side-dishes {
+	display: inline-block;
+	background: #7ABFBF;
+	width: 1280px;
+	transform: translateY(-555px);
+	height: 470px;
+}
+
+.need-some-side-dishes h2 {
+	font-family: bebas neue;
+	font-size: 30px;
+}
+
+.need-some-side-dishes h3 {
+	display: inline-block;
+	font-family: bebas neue;
+	font-size: 25px;
+	transform: translate(10px, 10px);
+}
+
+#myMexicanRice {
+	transform: translate(-70px, 0px);
+}
+
+h3.mexican-rice {
+	transform: translate(48px, 30px);
+}
+
+.content-1 {
+	transform: translate(48px, -10px);
+}
+
+#mySalsa {
+	transform: translate(310px, -394.5px);
+}
+
+h3.salsa {
+	transform: translate(370px, -365px);
+}
+
+.content-2 {
+	transform: translate(370px, -405px);
+}
+
+#myGuacamole {
+	transform: translate(592px, -789px);
+}
+
+h3.guacamole {
+	transform: translate(695px, -760px);
+}
+
+.content-3 {
+	transform: translate(695px, -800px);
+}
+
+#myTortilla {
+	transform: translate(920px, -1151px);
+}
+
+h3.tortillas {
+	transform: translate(1015px, -1120px);
+}
+
+.content-4 {
+	transform: translate(1015px, -1160px);
+}
+
+.need-some-side-dishes p {
+	line-height: 2;
+}
+
+menu li {
+	display: inline-block;
+}
+
+menu img {
+	width: 50px;
+	height: 50px;
+	padding-bottom: 20px;
+}
+
+footer {
+	background: #FFFFFF;
+	transform: translateY(-1662px);
+}
+
+footer p {
+	text-align: center;
+	display: inline-block;
+	padding-bottom: 25px;
+	padding-top: 20px;
+	font-size: 20px;
+	font-family: bebas neue;
+	transform: translateY(10px);
+}
+
+.footer-right {
+	color: #EB5428;
+	text-align: center;
+	transform: translateX(120px);
+}
+
+.footer-right p {
+	transform: translate(10px ,-90px);
+}
+
+#facebook {
+	transform: translate(90px, -95px);
+}
+
+#instagram {
+	transform: translate(94px, -93px);
+}
+
+#youtube {
+	transform: translate(87px, -92px);
+}
+
+#tiktok {
+	transform: translate(85px, -92px);
+}
+
+footer img {
+	width: 200px;
+	height: 200px;
+}
+
+#myTacoCheesington {
+	float: left;
+	padding-top: 25px;
+	padding-left: 10px;
+}
+
+footer svg {
+	padding-bottom: 15px;
+	transform: translate(90px ,-100px);
+	padding-right: 30px;
+	padding-left: 30px;	
+}
